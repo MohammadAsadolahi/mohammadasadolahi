@@ -1,7 +1,7 @@
 #### Hi there 👋
 
-- 🔭 I’m currently working on LLMs
-- 🌱 I’m currently learning LLMs and their challenges
+- 🔭 I’m currently working on Agentic LLMs
+- 🌱 I’m currently learning Agentic architectures and their nuances
 - 👯 I’m looking to collaborate on novel and profound research ideas in the realm of machine learning.
 
 

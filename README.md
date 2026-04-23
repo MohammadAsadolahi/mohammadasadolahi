@@ -115,63 +115,6 @@ open_to: Research collaborations in Agentic AI & RL
 </details>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                       FEATURED PROJECTS                            -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 Agentic AI & LLMs
-| Project | Description |
-|---------|-------------|
-| [**CloudFlare Serverless LLM Agent**](https://github.com/MohammadAsadolahi/CloudFlare_serverless_LLM_Agent) | Production-grade serverless AI agent on Cloudflare Workers |
-| [**Hybrid Agentic RAG**](https://github.com/MohammadAsadolahi/Hybrid_Agentic_RAG_using_semantic_serach_and_BM25) | Agentic RAG with semantic search + BM25 hybrid retrieval |
-| [**Employee Recruitment Copilot**](https://github.com/MohammadAsadolahi/Employee_Recruitment_Copilot_Using_Agentic_LLM) | Agentic LLM copilot for automated hiring workflows |
-| [**InkFlow**](https://github.com/MohammadAsadolahi/InkFlow) | Full-stack TypeScript application |
-
-</td>
-<td width="50%">
-
-### 🧠 Reinforcement Learning
-| Project | Description |
-|---------|-------------|
-| [**DDQN LunarLander-v2**](https://github.com/MohammadAsadolahi/DDQN_Deep-Double_Q-Learning-for-solving-OpenAi-Gym-LunarLander-v2-in-python) | Double DQN for OpenAI Gym environments |
-| [**Dueling DQN LunarLander**](https://github.com/MohammadAsadolahi/Dueling_Deep-Double_Q-Learning-for-solving-OpenAi-Gym-LunarLander-v2-in-python) | Dueling network architecture for RL |
-| [**DRL Crypto Trading**](https://github.com/MohammadAsadolahi/Reinforcement-learning-algorithm-Deep-Q-learning-for-cryptocurrency-trading) | Deep Q-Learning for crypto trading |
-| [**Actor-Critic + Replay**](https://github.com/MohammadAsadolahi/Offline-Actor-Critic-Algorithm-With-Experience-Replay-Buffer) | Offline AC with experience replay buffer |
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔬 Meta-Learning & Research
-| Project | Description |
-|---------|-------------|
-| [**MAML for NLP**](https://github.com/MohammadAsadolahi/MAML-algorithm-in-NLP) | Meta-Learning MAML algorithm for NLP tasks |
-| [**Scientific Claim Detection**](https://github.com/MohammadAsadolahi/MAML_Scintific_Claim_Detection_using_metal_earning) | MAML for scientific claim identification |
-| [**HomoSapiens Optimizer**](https://github.com/MohammadAsadolahi/HomoSapiens_Optimization_Algorithm_Continuous) | Novel optimization algorithm for continuous problems |
-| [**RL Evaluation Framework**](https://github.com/MohammadAsadolahi/Evaluate-Reinforcement-Learning-Algorithms-Correctly) | Proper framework for RL algorithm evaluation |
-
-</td>
-<td width="50%">
-
-### 🧬 Evolutionary & Heuristic Algorithms
-| Project | Description |
-|---------|-------------|
-| [**TSP with ACO**](https://github.com/MohammadAsadolahi/solving-TSP-problem-with-ACO-Heuristic-Algorithm-in-python) | ⭐ 23 — Ant Colony Optimization with visualization |
-| [**MLP Breast Cancer**](https://github.com/MohammadAsadolahi/MLP-NN-binary-classifier-for-breast-cancer-classification-in-python) | ⭐ 23 — MLP neural network classifier |
-| [**N-Queens with GA**](https://github.com/MohammadAsadolahi/nQueens-problem-solved-with-evolutionary-strategy-in-python) | ⭐ 15 — Genetic algorithm for N-Queens |
-| [**Knapsack with GA**](https://github.com/MohammadAsadolahi/knapsack-problem-solved-with-evolutionary-strategy-Genetic-algorithm-in-python) | ⭐ 11 — Genetic algorithm for knapsack problem |
-
-</td>
-</tr>
-</table>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                       GITHUB STATS                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 

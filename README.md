@@ -34,25 +34,24 @@
 name: Mohammad Asadolahi
 role: Senior Agentic AI Engineer
 education:
-  degree: PhD in Computer Science (In Progress)
+  degree: PhD in Computer Science (waiting to join)
   university: University of North Texas
-  focus: Agentic AI Architectures & Reinforcement Learning
+  focus: Agentic AI Architectures In The Wild
 
 research_interests:
   - Multi-Agent LLM Orchestration & Tool-Use
   - Autonomous AI Agents & Agentic RAG
-  - Reinforcement Learning (DQN, DDQN, Actor-Critic, SARSA)
-  - Meta-Learning (MAML) for Few-Shot NLP
+  - Reinforcement Learning (RLHF, DPO, DDQN, SAC, TD3, DDPG)
   - Evolutionary & Heuristic Optimization
   - Serverless AI Infrastructure
 
 current_work:
   - Designing production-grade agentic LLM architectures
-  - Building serverless AI agent pipelines on Cloudflare Workers
+  - Building highly scalable Copilot data integration
   - Contributing to mem0ai — memory layer for AI agents
-  - Researching meta-learning for scientific claim detection
+  - Researching meta-learning for building more efficint RAG's
 
-open_to: Research collaborations in Agentic AI & RL
+open_to: Research collaborations in Agentic AI & LLMs
 ```
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
@@ -65,18 +64,18 @@ open_to: Research collaborations in Agentic AI & RL
 <summary><b>🤖 AI / ML / Agents</b></summary>
 <br/>
 <p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-7B68EE?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI%20Gym-0081A5?style=for-the-badge&logo=openaigym&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-7B68EE?style=for-the-badge&logoColor=white"/>
+  
 </p>
 </details>
 
@@ -88,8 +87,6 @@ open_to: Research collaborations in Agentic AI & RL
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
@@ -101,13 +98,10 @@ open_to: Research collaborations in Agentic AI & RL
 <p>
   <img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChromaDB-4B0082?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
@@ -132,13 +126,6 @@ open_to: Research collaborations in Agentic AI & RL
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAsadolahi&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&hide=Jupyter%20Notebook" width="40%" alt="top languages"/>
-  </a>
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadAsadolahi&bg_color=0D1117&color=58a6ff&line=58a6ff&point=FFFFFF&area=true&area_color=58a6ff&hide_border=true" width="95%" alt="activity graph"/>
   </a>
 </p>
 

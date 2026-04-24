@@ -143,41 +143,6 @@ open_to: Research collaborations in Agentic AI & LLMs
   <img alt="github-snake" src="https://raw.githubusercontent.com/MohammadAsadolahi/MohammadAsadolahi/output/github-snake-dark.svg" width="100%"/>
 </picture>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                   EXPERTISE & RESEARCH                             -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## 🎯 Domains of Expertise
-
-```mermaid
-mindmap
-  root((Mohammad Asadolahi))
-    Agentic AI
-      Multi-Agent Orchestration
-      Tool-Use & Function Calling
-      Agentic RAG Pipelines
-      Serverless LLM Agents
-      Memory-Augmented Agents
-    Reinforcement Learning
-      Deep Q-Networks (DQN/DDQN)
-      Dueling DQN
-      Actor-Critic Methods
-      Policy Gradient
-      Q-Learning & SARSA
-      Monte Carlo Methods
-    Meta-Learning
-      MAML Algorithm
-      Few-Shot Learning
-      Scientific NLP
-    Evolutionary Computing
-      Genetic Algorithms
-      Ant Colony Optimization
-      Evolution Strategies
-    Deep Learning
-      Neural Network Design
-      TensorFlow & PyTorch
-      Function Approximation
-```
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                          CONNECT                                   -->

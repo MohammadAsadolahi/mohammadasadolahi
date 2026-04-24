@@ -122,13 +122,14 @@ open_to: Research collaborations in Agentic AI & LLMs
     <img src="https://github-readme-stats.vercel.app/api?username=MohammadAsadolahi&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="49%" alt="github stats"/>
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAsadolahi&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&hide=Jupyter%20Notebook" width="40%" alt="top languages"/>
-  </a>
 </p>
 
+<!-- GitHub Trophies -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=MohammadAsadolahi&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" alt="trophies"/>
+  </a>
+</p>
 
 <!-- Snake Animation -->
 <picture>

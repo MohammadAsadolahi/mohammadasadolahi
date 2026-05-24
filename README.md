@@ -36,9 +36,8 @@
 name: Mohammad Asadolahi
 role: Senior Agentic AI Engineer
 education:
-  degree: PhD in Computer Science (waiting to join)
-  university: University of North Texas
-  focus: Agentic AI Architectures In The Wild
+  degree: MsC. Computer Science - Artificial Intelligence
+  focus: Agentic AI Architectures And RL In The Wild
 
 research_interests:
   - Multi-Agent LLM Orchestration & Tool-Use

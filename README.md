@@ -3,13 +3,13 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammad%20Asadolahi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Agentic%20AI%20Engineer%20%7C%20%MsC%20Researcher&descSize=16&descAlignY=52&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammad%20Asadolahi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Agentic%20AI%20Engineer%20%7C%20%M.Sc.%20Researcher&descSize=16&descAlignY=52&descAlign=50" width="100%"/>
 </p>
 
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Architecting+Autonomous+AI+Agents;Building+LLM-Powered+Multi-Agent+Systems;Reinforcement+Learning+%26+Meta-Learning+Researcher;Serverless+AI+Infrastructure+Engineer;Open-Source+Contributor+%26+AI MsC.&font=Fira+Code&center=true&width=700&height=50&color=58a6ff&vCenter=true&pause=1000&size=20" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Architecting+Autonomous+AI+Agents;Building+LLM-Powered+Multi-Agent+Systems;Reinforcement+Learning+%26+Meta-Learning+Researcher;Serverless+AI+Infrastructure+Engineer;Open-Source+Contributor+%26+AI M.Sc.&font=Fira+Code&center=true&width=700&height=50&color=58a6ff&vCenter=true&pause=1000&size=20" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@
 name: Mohammad Asadolahi
 role: Senior Agentic AI Engineer
 education:
-  degree: MsC. Computer Science - Artificial Intelligence
+  degree: M.Sc. Computer Science - Artificial Intelligence
   focus: Agentic AI Architectures And RL In The Wild
 
 research_interests:

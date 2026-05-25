@@ -34,7 +34,7 @@
 
 ## &nbsp;About
 
-I&rsquo;m a Senior Agentic AI Engineer working on production LLM systems &mdash; multi-agent orchestration, hybrid retrieval, MCP-based tool ecosystems, and the eval/observability glue that makes them safe to ship. M.Sc. in Computer Science (AI), first-ranked in cohort. Published in *IEEE Access* and *Neural Computing & Applications*. Open to collaborations and senior IC roles &mdash; including US-based remote and relocation.
+I&rsquo;m a Senior Agentic AI Engineer working on production LLM systems &mdash; multi-agent orchestration, hybrid retrieval, MCP-based tool ecosystems, and the eval/observability glue that makes them safe to ship. M.Sc. in Computer Science (AI), first-ranked in cohort. Published in *IEEE Access* and *Neural Computing & Applications*. Open to collaborations and senior IC roles.
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- FEATURED WORK -->

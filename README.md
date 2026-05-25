@@ -80,7 +80,7 @@ Companion code to my *Neural Computing & Applications* (2023) paper. Stochastic 
 
 ## &nbsp;Publications
 
-- **A hybrid LSTM-GRU model for stock price prediction.** &nbsp;*IEEE Access*, vol. 13 (2025), pp. 117594&ndash;117618. &nbsp;ISSN 2169-3536.
+- **A hybrid LSTM-GRU model for stock price prediction.** &nbsp;*IEEE Access*, vol. 13 (2025), pp. 117594&ndash;117618. &nbsp;ISSN 2169-3536. &nbsp;[DOI:10.1109/ACCESS.2025.3586558](https://doi.org/10.1109/ACCESS.2025.3586558)
 - **Twin Delayed Stochastic Actor-Critic.** &nbsp;*Neural Computing and Applications*, June 2023. &nbsp;[DOI:10.21203/rs.3.rs-3041837/v1](https://doi.org/10.21203/rs.3.rs-3041837/v1)
 - **CypherRAG &mdash; Teaching LLMs to Query Knowledge Graphs for Graph-Retrieval-Augmented Generation.** &nbsp;*In preparation* &mdash; method validated, manuscript drafting.
 

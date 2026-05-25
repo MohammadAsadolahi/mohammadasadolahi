@@ -48,17 +48,10 @@ I&rsquo;m a Senior Agentic AI Engineer working on production LLM systems &mdash;
 FastAPI proxy that translates OpenAI-format requests to a local Claude CLI subprocess. Tool-call reconstruction, JSON-schema augmentation of system prompts, structured 429/504 error handling, full test suite. Lets any OpenAI-SDK tool target Claude without cloud keys.
 &nbsp;&nbsp;`FastAPI` &middot; `async Python` &middot; `tool-use` &middot; `OpenAI SDK`
 
-**[Employee Recruitment Copilot &mdash; Agentic LLM](https://github.com/MohammadAsadolahi/Employee-Recruitment-Copilot-Using-Agentic-LLM)**
-Recruitment agent built in *two parallel implementations* &mdash; LangChain (`create_openai_functions_agent`) and **MCP** (`mcpmain.py`) &mdash; to benchmark framework-first vs. protocol-first agent design. ReAct loop, six registered tools, conversational employer search over a structured talent pool.
-&nbsp;&nbsp;`LangChain` &middot; `MCP` &middot; `ReAct` &middot; `OpenAI function-calling`
-
 **[Hybrid Agentic RAG &mdash; semantic + BM25](https://github.com/MohammadAsadolahi/Hybrid-Agentic-RAG-using-semantic-serach-and-BM25)**
 Hybrid retrieval combining dense embeddings, BM25 lexical, and reranking inside an agentic loop &mdash; the pattern behind production RAG that doesn&rsquo;t fall over on rare terminology.
 &nbsp;&nbsp;`hybrid retrieval` &middot; `rerankers` &middot; `LangChain`
 
----
-
-### Full-Stack AI Tooling
 
 **[InkFlow](https://github.com/MohammadAsadolahi/InkFlow)** &nbsp;&middot;&nbsp; `MIT`
 Real-time capture and analytics platform for GitHub Copilot Chat and Claude Code conversations. Watches VS Code sessions, records every prompt / response / tool call / file edit, and stores them in a searchable Postgres-backed dashboard. Built for compliance, audit, and team knowledge preservation.

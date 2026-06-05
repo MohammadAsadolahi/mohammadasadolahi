@@ -170,7 +170,7 @@ Companion code to my *Neural Computing & Applications* (2023) paper. Stochastic 
 </p>
 
 <p align="center">
-<sub><i>Open to senior agentic AI / LLM engineering roles &mdash; US remote and relocation.</i></sub>
+<sub><i>Open to senior agentic AI / LLM engineering roles</i></sub>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->

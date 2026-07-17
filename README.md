@@ -15,9 +15,6 @@
 
 <!-- Social Badges -->
 <p align="center">
-<a href="https://github.com/MohammadAsadolahi?tab=followers">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/MohammadAsadolahi?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=58a6ff"/>
-</a>
 <a href="https://github.com/MohammadAsadolahi?tab=repositories&sort=stargazers">
 <img alt="GitHub stars" src="https://img.shields.io/github/stars/MohammadAsadolahi?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=58a6ff&affiliations=OWNER"/>
 </a>

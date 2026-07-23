@@ -79,9 +79,9 @@ Companion code to my *Neural Computing & Applications* (2023) paper. Stochastic 
 <!-- TEACHING & OSS -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## &nbsp;Teaching &amp; Open Source
+## &nbsp;Most Recent Teaching &amp; Open Source Activites
 
-- **Instructor &mdash; Large Language Models Course, Spring 2026.** &nbsp;Science &amp; Research Branch, Azad University, Tehran. &nbsp;Course materials: [`SRB-University-LLM-Course-Spring-2026`](https://github.com/MohammadAsadolahi/SRB-University-LLM-Course-Spring-2026).
+- **Teaching Assisstant &mdash; Large Language Models Course, Spring 2026.** &nbsp;Science &amp; Research Branch, Azad University, Tehran. &nbsp;Course materials: [`SRB-University-LLM-Course-Spring-2026`](https://github.com/MohammadAsadolahi/SRB-University-LLM-Course-Spring-2026).
 - **Contributor &mdash; [mem0ai](https://github.com/mem0ai/mem0).** &nbsp;Memory layer for AI agents.
 - **45+ public repositories** across agentic AI, RAG, RL, meta-learning, and optimization.
 

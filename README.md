@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-<i>Building the agents that shape what comes next.</i>
+<i>Building & teaching the agents that shape what comes next.</i>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
@@ -31,7 +31,7 @@
 
 ## &nbsp;About
 
-I&rsquo;m a Senior Agentic AI Engineer working on production LLM systems &mdash; multi-agent orchestration, hybrid retrieval, MCP-based tool ecosystems, and the eval/observability glue that makes them safe to ship. M.Sc. in Computer Science (AI), first-ranked in cohort. Published in *IEEE Access* and *Neural Computing & Applications*. Open to collaborations and senior IC roles.
+I&rsquo;m a AI educator and a Senior Agentic AI Engineer working on production LLM systems &mdash; multi-agent orchestration, hybrid retrieval, MCP-based tool ecosystems, and the eval/observability glue that makes them safe to ship. M.Sc. in Computer Science (AI), first-ranked in cohort. Published in *IEEE Access* and *Neural Computing & Applications*. Open to collaborations and senior IC roles.
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- FEATURED WORK -->
@@ -79,7 +79,7 @@ Companion code to my *Neural Computing & Applications* (2023) paper. Stochastic 
 <!-- TEACHING & OSS -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## &nbsp;Most Recent Teaching &amp; Open Source Activites
+## &nbsp;Most Recent Teaching Materials&amp; Open Source Activites
 
 - **Teaching Assisstant &mdash; Large Language Models Course, Spring 2026.** &nbsp;Science &amp; Research Branch, Azad University, Tehran. &nbsp;Course materials: [`SRB-University-LLM-Course-Spring-2026`](https://github.com/MohammadAsadolahi/SRB-University-LLM-Course-Spring-2026).
 - **Contributor &mdash; [mem0ai](https://github.com/mem0ai/mem0).** &nbsp;Memory layer for AI agents.

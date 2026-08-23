@@ -222,7 +222,7 @@ Companion code to my *Neural Computing &amp; Applications* (2023) paper. Stochas
 </p>
 
 <p align="center">
-<sub><i>Open to senior data science / full-stack AI engineering roles &mdash; and always happy to talk about teaching</i></sub>
+<sub><i>Open to collaborate on AI project and  always happy to talk about teaching</i></sub>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->

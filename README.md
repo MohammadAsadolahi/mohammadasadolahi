@@ -3,13 +3,13 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammad%20Asadolahi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Agentic%20AI%20Engineer%20%E2%80%94%20LLMs%2C%20Multi-Agent%20Systems%2C%20Production%20RAG&descSize=15&descAlignY=52&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammad%20Asadolahi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Data%20Scientist%20%26%20Full-Stack%20Engineer%20%E2%80%94%20AI%2C%20MLOps%2C%20Distributed%20Systems%20%7C%20University%20Instructor&descSize=13&descAlignY=52&descAlign=50" width="100%"/>
 </p>
 
 <!-- Typing SVG -->
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?lines=Shipping+production+agentic+AI+systems;Multi-agent+orchestration+with+MCP+%26+ReAct;Hybrid+RAG+at+scale+%E2%80%94+late-chunked%2C+graph-augmented;Contributor+to+mem0ai+%E2%80%94+memory+for+AI+agents;Teaching+LLMs+at+SRB+University%2C+Spring+2026&font=Fira+Code&center=true&width=720&height=50&color=58a6ff&vCenter=true&pause=1000&size=18" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Senior+Data+Scientist+%26+Full-Stack+Engineer;From+notebook+to+cloud%3A+MLOps%2C+CI%2FCD%2C+observability;Distributed+data+%26+multi-agent+AI+systems;Hybrid+RAG+at+scale+%E2%80%94+late-chunked%2C+graph-augmented;University+instructor+%E2%80%94+AI%2C+software+engineering%2C+programming;Creating+active+learning+materials+for+students&font=Fira+Code&center=true&width=720&height=50&color=58a6ff&vCenter=true&pause=1000&size=18" />
 </a>
 </p>
 
@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-<i>Building & teaching the agents that shape what comes next.</i>
+<i>Building production AI systems &mdash; and teaching the next generation how to build them.</i>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
@@ -31,7 +31,43 @@
 
 ## &nbsp;About
 
-I&rsquo;m a AI educator and a Senior Agentic AI Engineer working on production LLM systems &mdash; multi-agent orchestration, hybrid retrieval, MCP-based tool ecosystems, and the eval/observability glue that makes them safe to ship. M.Sc. in Computer Science (AI), first-ranked in cohort. Published in *IEEE Access* and *Neural Computing & Applications*. Open to collaborations and senior IC roles.
+I&rsquo;m a **Senior Data Scientist &amp; Senior Full-Stack Software Engineer** working across the entire lifecycle of intelligent systems &mdash; from research and experimentation to distributed data pipelines, cloud-native deployment, MLOps, and long-term operation of production LLM platforms.
+
+My work spans **multi-agent orchestration, hybrid retrieval, MCP-based tool ecosystems, and large-scale data engineering**, backed by the discipline that makes ML safe to ship: **experiment tracking, model versioning, CI/CD for ML, containerized &amp; orchestrated serving, monitoring &amp; drift detection, and evaluation pipelines**. I treat models as software: tested, observable, reproducible, and deployed on infrastructure that scales.
+
+Beyond engineering, I&rsquo;m in love with **teaching**. I&rsquo;ve taught at universities as an instructor, supervised students through their theses, and design active learning materials that turn complex AI and software engineering concepts into things students can actually build.
+
+M.Sc. in Computer Science (AI), **first-ranked in cohort**. Published in *IEEE Access* and *Neural Computing &amp; Applications*, with a Springer book chapter on LLMs in healthcare. Open to collaborations and senior IC roles.
+
+```text
+Research → Prototyping → Productionization → MLOps → Monitoring → Teaching what I learned
+```
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- PUBLICATIONS -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## &nbsp;Publications &amp; Research
+
+- **CardioVIT-Distill: Hardness-Aware Data Splitting and Knowledge Distillation for Robust Myocardial Abnormality Detection.** &nbsp;Asadolahi, M., et al. &nbsp;2026. &nbsp;*Under review at Scientific Reports.*
+- **Memory Reward Inflation in Self-Improving LLM Agents.** &nbsp;Asadolahi, M., et al. &nbsp;2026. &nbsp;*Under review at Applied Intelligence.* &nbsp;[DOI:10.48550/arXiv.2608.00017](https://doi.org/10.48550/arXiv.2608.00017)
+- **A hybrid LSTM-GRU model for stock price prediction.** &nbsp;*IEEE Access*, vol. 13 (2025), pp. 117594&ndash;117618. &nbsp;ISSN 2169-3536. &nbsp;[DOI:10.1109/ACCESS.2025.3586558](https://doi.org/10.1109/ACCESS.2025.3586558)
+- **Explainable Large Language Models in Healthcare Applications**, Springer, 2026. &nbsp;Contributed chapter: *Legal and Regulatory Considerations* (Ch. 11, pp. 287&ndash;299). &nbsp;[DOI:10.1007/978-3-032-15088-2_11](https://doi.org/10.1007/978-3-032-15088-2_11)
+- **Twin Delayed Stochastic Actor-Critic.** &nbsp;*Neural Computing and Applications*, June 2023. &nbsp;[DOI:10.21203/rs.3.rs-3041837/v1](https://doi.org/10.21203/rs.3.rs-3041837/v1)
+- **CypherRAG &mdash; Teaching LLMs to Query Knowledge Graphs for Graph-Retrieval-Augmented Generation.** &nbsp;*In preparation* &mdash; method validated, manuscript drafting.
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- TEACHING & EDUCATION -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## &nbsp;Teaching &amp; AI Education
+
+> *"If you can't explain it to a student, you don't understand it well enough to ship it."*
+
+- **University instructor** &mdash; taught **Artificial Intelligence, Software Engineering, and Programming Languages** at the university level.
+- **Thesis supervision &amp; mentorship** &mdash; guiding students through their theses and their first steps in ML research and production engineering.
+- **Active learning materials** &mdash; creating open, hands-on course materials and repositories designed to be *built with*, not just read: [`SRB-University-LLM-Course-Spring-2026`](https://github.com/MohammadAsadolahi/SRB-University-LLM-Course-Spring-2026).
+- **Open source as teaching at scale** &mdash; contributor to [mem0ai](https://github.com/mem0ai/mem0), the memory layer for AI agents, with **45+ public repositories** across agentic AI, RAG, RL, meta-learning, and optimization.
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- FEATURED WORK -->
@@ -39,16 +75,15 @@ I&rsquo;m a AI educator and a Senior Agentic AI Engineer working on production L
 
 ## &nbsp;Featured Work
 
-### Production Agentic Systems
+### Production Agentic &amp; ML Systems
 
 **[Claude CLI &harr; OpenAI Proxy](https://github.com/MohammadAsadolahi/CaludeCLI-LLM-Proxy)**
 FastAPI proxy that translates OpenAI-format requests to a local Claude CLI subprocess. Tool-call reconstruction, JSON-schema augmentation of system prompts, structured 429/504 error handling, full test suite. Lets any OpenAI-SDK tool target Claude without cloud keys.
 &nbsp;&nbsp;`FastAPI` &middot; `async Python` &middot; `tool-use` &middot; `OpenAI SDK`
 
 **[Hybrid Agentic RAG &mdash; semantic + BM25](https://github.com/MohammadAsadolahi/Hybrid-Agentic-RAG-using-semantic-serach-and-BM25)**
-Hybrid retrieval combining dense embeddings, BM25 lexical, and reranking inside an agentic loop &mdash; the pattern behind production RAG that doesn&rsquo;t fall over on rare terminology.
+Hybrid retrieval combining dense embeddings, BM25 lexical search, and reranking inside an agentic loop &mdash; the pattern behind production RAG that doesn&rsquo;t fall over on rare terminology.
 &nbsp;&nbsp;`hybrid retrieval` &middot; `rerankers` &middot; `LangChain`
-
 
 **[InkFlow](https://github.com/MohammadAsadolahi/InkFlow)** &nbsp;&middot;&nbsp; `MIT`
 Real-time capture and analytics platform for GitHub Copilot Chat and Claude Code conversations. Watches VS Code sessions, records every prompt / response / tool call / file edit, and stores them in a searchable Postgres-backed dashboard. Built for compliance, audit, and team knowledge preservation.
@@ -56,34 +91,13 @@ Real-time capture and analytics platform for GitHub Copilot Chat and Claude Code
 
 ---
 
-### Research &mdash; Meta-Learning &amp; RL
+### Research &mdash; Meta-Learning, RL &amp; Applied ML
 
 **[MAML for Scientific Claim Detection](https://github.com/MohammadAsadolahi/MAML-Scintific-Claim-Detection-using-Meta-Learning)** &nbsp;&middot;&nbsp; **[MAML in NLP](https://github.com/MohammadAsadolahi/MAML-algorithm-in-NLP)**
 Model-Agnostic Meta-Learning applied to low-resource NLP tasks &mdash; few-shot adaptation for claim verification.
 
 **[Twin Delayed Stochastic Actor-Critic (TD-SAC)](https://github.com/MohammadAsadolahi/TDS-Twin-Delayed-Stochastic-Actor-Critic)**
-Companion code to my *Neural Computing & Applications* (2023) paper. Stochastic off-policy actor-critic with twin-delayed critic updates.
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- PUBLICATIONS -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## &nbsp;Publications
-
-- **A hybrid LSTM-GRU model for stock price prediction.** &nbsp;*IEEE Access*, vol. 13 (2025), pp. 117594&ndash;117618. &nbsp;ISSN 2169-3536. &nbsp;[DOI:10.1109/ACCESS.2025.3586558](https://doi.org/10.1109/ACCESS.2025.3586558)
-- **Explainable Large Language Models in Healthcare Applications**, Springer, 2026. &nbsp;Contributed chapter: *Legal and Regulatory Considerations* (Ch. 11, pp. 287&ndash;299). &nbsp;[DOI:10.1007/978-3-032-15088-2_11](https://doi.org/10.1007/978-3-032-15088-2_11)
-- **Twin Delayed Stochastic Actor-Critic.** &nbsp;*Neural Computing and Applications*, June 2023. &nbsp;[DOI:10.21203/rs.3.rs-3041837/v1](https://doi.org/10.21203/rs.3.rs-3041837/v1)
-- **CypherRAG &mdash; Teaching LLMs to Query Knowledge Graphs for Graph-Retrieval-Augmented Generation.** &nbsp;*In preparation* &mdash; method validated, manuscript drafting.
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- TEACHING & OSS -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## &nbsp;Most Recent Teaching Materials&amp; Open Source Activites
-
-- **Teaching Assisstant &mdash; Large Language Models Course, Spring 2026.** &nbsp;Science &amp; Research Branch, Azad University, Tehran. &nbsp;Course materials: [`SRB-University-LLM-Course-Spring-2026`](https://github.com/MohammadAsadolahi/SRB-University-LLM-Course-Spring-2026).
-- **Contributor &mdash; [mem0ai](https://github.com/mem0ai/mem0).** &nbsp;Memory layer for AI agents.
-- **45+ public repositories** across agentic AI, RAG, RL, meta-learning, and optimization.
+Companion code to my *Neural Computing &amp; Applications* (2023) paper. Stochastic off-policy actor-critic with twin-delayed critic updates.
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- TECH STACK -->
@@ -101,7 +115,6 @@ Companion code to my *Neural Computing & Applications* (2023) paper. Stochastic 
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/RAG-7B68EE?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/FAISS-0668E1?style=for-the-badge&logoColor=white"/>
@@ -109,18 +122,60 @@ Companion code to my *Neural Computing & Applications* (2023) paper. Stochastic 
 </details>
 
 <details open>
-<summary><b>Backend, Data &amp; Infra</b></summary>
+<summary><b>Data Science &amp; Machine Learning</b></summary>
+<br/>
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Reinforcement%20Learning-2E7D32?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Meta--Learning-6A1B9A?style=for-the-badge&logoColor=white"/>
+</p>
+</details>
+
+<details open>
+<summary><b>Distributed Data &amp; Big Data Processing</b></summary>
+<br/>
+<p>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Parquet-50ABF1?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+<img src="https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=nats.io&logoColor=white"/>
+</p>
+</details>
+
+<details open>
+<summary><b>MLOps, Cloud &amp; Orchestration</b></summary>
+<br/>
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+</p>
+</details>
+
+<details open>
+<summary><b>Full-Stack &amp; Backend Engineering</b></summary>
 <br/>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=nats.io&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
@@ -167,7 +222,7 @@ Companion code to my *Neural Computing & Applications* (2023) paper. Stochastic 
 </p>
 
 <p align="center">
-<sub><i>Open to senior agentic AI / LLM engineering roles</i></sub>
+<sub><i>Open to senior data science / full-stack AI engineering roles &mdash; and always happy to talk about teaching</i></sub>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->

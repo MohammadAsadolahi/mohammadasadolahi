@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammad%20Asadolahi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Data%20Scientist%20%26%20Full-Stack%20Engineer%20%E2%80%94%20AI%2C%20MLOps%2C%20Distributed%20Systems%20%7C%20University%20Instructor&descSize=13&descAlignY=52&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammad%20Asadolahi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Data%20Scientist%20and%20Full-Stack%20Engineer%20%E2%80%94%20AI%2C%20MLOps%2C%20Distributed%20Systems%2C%20University%20Instructor&descSize=13&descAlignY=52&descAlign=50&v=3" width="100%"/>
 </p>
 
 <!-- Typing SVG -->
@@ -228,5 +228,5 @@ Companion code to my *Neural Computing &amp; Applications* (2023) paper. Stochas
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&v=3" width="100%"/>
 </p>

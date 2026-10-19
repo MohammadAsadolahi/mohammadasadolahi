@@ -77,6 +77,12 @@ Research → Prototyping → Productionization → MLOps → Monitoring → Teac
 
 ### Production Agentic &amp; ML Systems
 
+**[CodeGent &mdash; Autonomous AI Coding Assistant](https://github.com/MohammadAsadolahi/CodeGent)**
+
+An open-source agentic coding bridge connecting **VS Code, ChatGPT, and GitHub**. Transforms natural-language instructions into iterative, validated code changes &mdash; automatically applying edits, running optional verification checks, committing and pushing changes, and feeding results back to ChatGPT until the task is complete. Features step-by-step visibility, undo support, and safe file handling. **No API keys, manual copy-paste, or dedicated backend required.**
+
+&nbsp;&nbsp;`VS Code Extension` &middot; `Browser Extension` &middot; `GitHub Integration` &middot; `Agentic AI`
+
 **[Claude CLI &harr; OpenAI Proxy](https://github.com/MohammadAsadolahi/CaludeCLI-LLM-Proxy)**
 FastAPI proxy that translates OpenAI-format requests to a local Claude CLI subprocess. Tool-call reconstruction, JSON-schema augmentation of system prompts, structured 429/504 error handling, full test suite. Lets any OpenAI-SDK tool target Claude without cloud keys.
 &nbsp;&nbsp;`FastAPI` &middot; `async Python` &middot; `tool-use` &middot; `OpenAI SDK`

@@ -3,13 +3,13 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammad%20Asadolahi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Data%20Scientist%20and%20Full-Stack%20Engineer%20%E2%80%94%20AI%2C%20MLOps%2C%20Distributed%20Systems%2C%20University%20Instructor&descSize=13&descAlignY=52&descAlign=50&v=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammad%20Asadolahi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Data%20Scientist%20%E2%80%94%20AI+Researcher%20and%20Full-Stack%20Engineer%20%E2%80%94%20AI%2C%20MLOps%2C%20Distributed%20Systems%2C%20University%20Instructor&descSize=13&descAlignY=52&descAlign=50&v=3" width="100%"/>
 </p>
 
 <!-- Typing SVG -->
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?lines=Senior+Data+Scientist+%26+Full-Stack+Engineer;From+notebook+to+cloud%3A+MLOps%2C+CI%2FCD%2C+observability;Distributed+data+%26+multi-agent+AI+systems;Hybrid+RAG+at+scale+%E2%80%94+late-chunked%2C+graph-augmented;University+instructor+%E2%80%94+AI%2C+software+engineering%2C+programming;Creating+active+learning+materials+for+students&font=Fira+Code&center=true&width=720&height=50&color=58a6ff&vCenter=true&pause=1000&size=18" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Senior+Data+Scientist+%26+AI+Researcher+%26+Full-Stack+Engineer;From+notebook+to+cloud%3A+MLOps%2C+CI%2FCD%2C+observability;Distributed+data+%26+multi-agent+AI+systems;Hybrid+RAG+at+scale+%E2%80%94+late-chunked%2C+graph-augmented;University+instructor+%E2%80%94+AI%2C+software+engineering%2C+programming;Creating+active+learning+materials+for+students&font=Fira+Code&center=true&width=720&height=50&color=58a6ff&vCenter=true&pause=1000&size=18" />
 </a>
 </p>
 
@@ -31,7 +31,7 @@
 
 ## &nbsp;About
 
-I&rsquo;m a **Senior Data Scientist &amp; Senior Full-Stack Software Engineer** working across the entire lifecycle of intelligent systems &mdash; from research and experimentation to distributed data pipelines, cloud-native deployment, MLOps, and long-term operation of production LLM platforms.
+I&rsquo;m a **Senior Data Scientist - AI Researcher&amp; Senior Full-Stack Software Engineer** working across the entire lifecycle of intelligent systems &mdash; from research and experimentation to distributed data pipelines, cloud-native deployment, MLOps, and long-term operation of production LLM platforms.
 
 My work spans **multi-agent orchestration, hybrid retrieval, MCP-based tool ecosystems, and large-scale data engineering**, backed by the discipline that makes ML safe to ship: **experiment tracking, model versioning, CI/CD for ML, containerized &amp; orchestrated serving, monitoring &amp; drift detection, and evaluation pipelines**. I treat models as software: tested, observable, reproducible, and deployed on infrastructure that scales.
 
